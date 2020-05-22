@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ni6EKaekPtqJ35ha59DUcv8VbIqlQaFq62ucs0I3F0CNla5fsO4Yyqfwon6PA3Ob9SxINTUlRA9AWVMgVJzGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell1\\source\\repos\\Collections using IEnumerable\\Collections using IEnumerable\\Collections using IEnumerable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
